@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Marlon Ricardo. / Olá, eu sou a Marlon Ricardo.
 
-- 🌱 I’m currently learning Java and Spring Framework. / Atualmente, estou aprendendo Java and Spring Framework.
-- 📖 System Analysis student. / Estudante de Análise e Desenvolvimento de Sistemas. 
-- 📖 Attending MBA Software Engineering at USP/ESALQ - Cursando MBA em Engenharia de Software na USP - ESALQ - May/2024
+- 👨‍💻 I’m currently learning Java. / Atualmente, estou aprendendo Java.
+- 📘 System Analysis student. / Estudante de Análise e Desenvolvimento de Sistemas. 
+- 📙 Attending MBA Software Engineering at USP/ESALQ - Cursando MBA em Engenharia de Software na USP - ESALQ - May/2024
 
 ###
 
