@@ -4,7 +4,7 @@
 - 📘 System Analysis student. / Estudante de Análise e Desenvolvimento de Sistemas. 
 - 📙 Attending MBA Software Engineering at USP/ESALQ - Cursando MBA em Engenharia de Software na USP - ESALQ - May/2024
 
-### Intro Module
+### 👨‍💻Intro Module
 
 In the introductory module, we delved into the fundamentals of frontend development by employing HTML, CSS, and JavaScript to craft a dynamic product page. One of the highlights was integrating an API to procure data, which we seamlessly incorporated into our page using JSON. This hands-on experience provided valuable insight into building responsive and interactive user interfaces
 
