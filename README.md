@@ -13,7 +13,7 @@ In the introductory module, we delved into the fundamentals of frontend developm
 
 
 ## 👨‍💻Java
-This repository will serve as a showcase for my Java projects, encompassing both cloned repositories I've worked on and original projects that demonstrate my skills and proficiency in Java programming.
+This repository will serve as a showcase for my Java projects, encompassing both cloned repositories I've worked on and original projects that demonstrate my skills and proficiency in Java programming. Additionally, it will document my studies, providing insights into the concepts I've learned and the progress I've made in mastering the Java language.
 
 
 ## 🌐 Socials:
