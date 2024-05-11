@@ -6,6 +6,10 @@
 
 ###
 
+In the introductory module, we delved into the fundamentals of frontend development by employing HTML, CSS, and JavaScript to craft a dynamic product page. One of the highlights was integrating an API to procure data, which we seamlessly incorporated into our page using JSON. This hands-on experience provided valuable insight into building responsive and interactive user interfaces
+
+###
+
 <div>
   <a href="https://github.com/marlonricardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardmarlon&layout=compact&langs_count=7&theme=dracula"/>
