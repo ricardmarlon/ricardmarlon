@@ -7,10 +7,13 @@
 
 
 
-## 👨‍💻Intro Module
+## 👨‍💻MBA Resume
 
 In the introductory module, we delved into the fundamentals of frontend development by employing HTML, CSS, and JavaScript to craft a dynamic product page. One of the highlights was integrating an API to procure data, which we seamlessly incorporated into our page using JSON. This hands-on experience provided valuable insight into building responsive and interactive user interfaces
 
+
+## 👨‍💻Java
+This repository will serve as a showcase for my Java projects, encompassing both cloned repositories I've worked on and original projects that demonstrate my skills and proficiency in Java programming.
 
 
 ## 🌐 Socials:
