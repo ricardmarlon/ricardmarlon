@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Marlon Ricardo</h1>
 
 - 👨‍💻 I’m currently learning Java. / Atualmente, estou aprendendo Java.
-- 📘 System Analysis student. / Estudante de Análise e Desenvolvimento de Sistemas. 
-- 📙 Attending MBA Software Engineering at USP/ESALQ - Cursando MBA em Engenharia de Software na USP - ESALQ - May/2024
+- 👨‍💻 System Analysis student. / Estudante de Análise e Desenvolvimento de Sistemas. 
+- 👨‍💻 Attending MBA Software Engineering at USP/ESALQ - Cursando MBA em Engenharia de Software na USP - ESALQ - May/2024
 
 
 
